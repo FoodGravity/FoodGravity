@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 你好，我是李学明 / 饭有引力 (FoodGravity)
 
-<!--
-**FoodGravity/FoodGravity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+10年 **UE5/UE4 全流程工程师**，广州，专注数字孪生、工业仿真、VR/AR 虚拟现实领域。
+具备从三维建模到部署上线的完整项目独立交付能力。
 
-Here are some ideas to get you started:
+## 🔧 技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 类别 | 技能 |
+|---|---|
+| **引擎** | UE5 / UE4 / Unreal Engine |
+| **开发** | C++ 插件开发 / 蓝图系统 / HLSL 材质与后处理 |
+| **方向** | 数字孪生 / 工业仿真 / 虚拟展馆 / VR教育 |
+| **通信** | MQTT 物联网 / RTSP 视频流 / CEF 浏览器插件 / 像素流发布 |
+| **其他** | 性能优化 / 三维建模 / 场景地编 / 实时光照 / UI设计 |
+
+## 🌐 个人网站
+
+**[李学明个人网站 - 简历与作品集](https://lixueming.pages.dev/)**
+
+- 个人简历：https://lixueming.pages.dev/lxm
+- 作品集（深空暗霓风格）：https://lixueming.pages.dev/深空暗霓
+- 在线工具：二维码转换器 / R2上传器 / AI工具API
+
+## 🏢 职业经历
+
+- **2021-2026** 广州悦创智能科技 — UE5工程师
+  工业数字孪生、工业仿真、机器人实训、工厂园区可视化
+- **2019-2021** 广州大西洲科技 — UE4综合技术美术
+  虚拟展厅、VR文旅、党建教育项目
+- **2017-2019** 广州灵墨信息科技 — VR场景美术
+  K12教育、电力模拟、消防应急、化工应急VR内容
+- **2016-2017** 北京视点灵动教育科技 — 动画师
+  教育类三维动画、企业宣传片
+
+## 📫 联系我
+
+- **邮箱**：1309103288@qq.com
+- **个人网站**：https://lixueming.pages.dev/
+- **GitHub**：https://github.com/FoodGravity/
+- **地点**：中国 · 广州
+
+---
+
+⭐ 如果你觉得我的项目或工具有用，欢迎点个 Star
