@@ -17,8 +17,8 @@
 
 **[李学明个人网站 - 简历与作品集](https://lixueming.cn/)**
 
-- 个人简历：https://lixueming.pages.dev/lxm
-- 作品集（深空暗霓风格）：https://lixueming.pages.dev/深空暗霓
+- 个人简历：https://lixueming.cn/pdf
+- 作品集（深空暗霓风格）：https://lixueming.cn/lxm
 - 在线工具：二维码转换器 / R2上传器 / AI工具API
 
 ## 🏢 职业经历
