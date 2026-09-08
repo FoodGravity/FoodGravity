@@ -15,7 +15,7 @@
 
 ## 🌐 个人网站
 
-**[李学明个人网站 - 简历与作品集](https://lixueming.pages.dev/)**
+**[李学明个人网站 - 简历与作品集](https://lixueming.cn/)**
 
 - 个人简历：https://lixueming.pages.dev/lxm
 - 作品集（深空暗霓风格）：https://lixueming.pages.dev/深空暗霓
@@ -35,7 +35,7 @@
 ## 📫 联系我
 
 - **邮箱**：1309103288@qq.com
-- **个人网站**：https://lixueming.pages.dev/
+- **个人网站**：https://lixueming.cn/
 - **GitHub**：https://github.com/FoodGravity/
 - **地点**：中国 · 广州
 
